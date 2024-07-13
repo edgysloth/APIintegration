@@ -6,7 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import com.example.apiintegration.ViewModel.ProductVieModel
 import com.example.apiintegration.ViewModel.UserVieModel
-import com.example.apiintegration.Views.userScreen
+import com.example.apiintegration.Views.productScreen
 import com.example.apiintegration.ui.theme.APIintegrationTheme
 
 
@@ -18,8 +18,8 @@ class MainActivity : ComponentActivity() {
             val productVM: ProductVieModel by viewModels()
             val userVM: UserVieModel by viewModels()
             APIintegrationTheme {
-               //productScreen(productVM = productVM)
-                userScreen(userVM = userVM)
+               productScreen(productVM = productVM)
+                //userScreen(userVM = userVM)
             }
         }
     }

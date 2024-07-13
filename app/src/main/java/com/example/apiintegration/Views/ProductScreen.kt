@@ -64,7 +64,7 @@ fun productScreen(productVM: ProductVieModel) {
                 style = TextStyle(
                     fontFamily =FontFamily(Font(R.font.greatvibes_regular)) ,
                     fontWeight = FontWeight.Bold,
-                    fontSize = 40.sp, // Adjust size as needed
+                    fontSize = 40.sp, 
                     color = Color.White,
                     textAlign = TextAlign.Center
                 ),
@@ -77,7 +77,7 @@ fun productScreen(productVM: ProductVieModel) {
         Text(
             "Super Saver Sale",
             style = TextStyle(
-                color = Color.Gray.copy(alpha = 0.5f), // Faded color
+                color = Color.Gray.copy(alpha = 0.5f), 
                 fontSize = 16.sp
             ), modifier = Modifier.padding(5.dp)
         )

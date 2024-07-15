@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995611007582",
+    "project_id": "fir-integrity-5053e",
+    "storage_bucket": "fir-integrity-5053e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995611007582:android:da7aea1934d849747632cf",
+        "android_client_info": {
+          "package_name": "com.example.apiintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDba0ThC0V3IE2lP4eHFug9OBTYNJD39rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

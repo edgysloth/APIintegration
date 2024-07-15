@@ -24,6 +24,6 @@
 ![sshomepage](https://github.com/user-attachments/assets/9f873157-7760-4a02-8d63-12a26041b7ce)
 
 
-![Screenshot 2024-07-15 145343](https://github.com/user-attachments/assets/6edfe565-54ce-4cd6-b2d4-34504c55874a)
+
 
 
